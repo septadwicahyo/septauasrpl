@@ -1,0 +1,26 @@
+Analisis Kompatibilitas Lisensi MIT terhadap Modifikasi Proyek
+
+Jenis Lisensi: MIT License
+
+Ringkasan:
+Lisensi MIT adalah lisensi open-source yang bersifat sangat permisif. Lisensi ini memberikan kebebasan kepada siapa saja untuk menggunakan, menyalin, memodifikasi, menggabungkan, mempublikasikan, mendistribusikan, mensublisensikan, atau menjual perangkat lunak, selama lisensi asli tetap disertakan dalam salinan kode atau distribusi.
+
+Pengubahan yang Dilakukan:
+- Menambah dan mengubah route pada aplikasi Flask (contoh: route "/status")
+- Mengubah isi return string dari route yang ada
+- Tidak mengubah struktur dasar lisensi atau hak cipta
+
+Kompatibilitas:
+✅ Perubahan ini sepenuhnya kompatibel dengan Lisensi MIT.
+
+Alasan:
+✔️ Lisensi MIT mengizinkan modifikasi dan distribusi ulang.
+✔️ Tidak ada batasan penggunaan, termasuk untuk tujuan komersial.
+✔️ Tidak ada pelanggaran terhadap hak cipta selama lisensi asli disertakan.
+
+Kewajiban:
+- Menyertakan teks lisensi MIT asli pada semua salinan atau bagian substansial dari perangkat lunak.
+- Tetap mencantumkan informasi hak cipta asli: "Copyright (c) 2017 Mumshad Mannambeth"
+
+Kesimpulan:
+Pengubahan yang dilakukan terhadap proyek berbasis lisensi MIT adalah sah dan sesuai dengan aturan lisensi. Selama lisensi asli tetap dicantumkan dalam distribusi ulang, maka tidak ada pelanggaran terhadap ketentuan lisensi MIT.

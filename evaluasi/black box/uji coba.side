@@ -1,0 +1,58 @@
+{
+  "id": "6fe769a9-6a8b-42be-b416-42e635f889ba",
+  "version": "2.0",
+  "name": "uji coba",
+  "url": "https://crispy-meme-pjg7qgvxrq94f7qv4-8080.app.github.dev",
+  "tests": [{
+    "id": "36aeb6a1-6029-48a1-9ab1-a6fa7adfcb89",
+    "name": "tugas uts",
+    "commands": [{
+      "id": "0ee0c968-be33-4b0d-8df6-6f0d476379e9",
+      "comment": "",
+      "command": "open",
+      "target": "/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "aaf0a1f8-90e7-4724-a081-fb780d3eecff",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "550x691",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "074ea257-fca0-437e-9409-b08f6be4c2b1",
+      "comment": "",
+      "command": "click",
+      "target": "css=.btn-primary",
+      "targets": [
+        ["css=.btn-primary", "css:finder"],
+        ["xpath=//button[@type='submit']", "xpath:attributes"],
+        ["xpath=//button", "xpath:position"],
+        ["xpath=//button[contains(.,'Continue')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "be862937-17b0-487e-826d-6e8f1959b247",
+      "comment": "",
+      "command": "click",
+      "target": "css=html",
+      "targets": [
+        ["css=html", "css:finder"],
+        ["xpath=//html", "xpath:position"],
+        ["xpath=//html[contains(.,'Welcome to my Flask app!')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }]
+  }],
+  "suites": [{
+    "id": "cc15e926-e060-4f5f-8369-33303fd41ec3",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["36aeb6a1-6029-48a1-9ab1-a6fa7adfcb89"]
+  }],
+  "urls": ["https://crispy-meme-pjg7qgvxrq94f7qv4-8080.app.github.dev/"],
+  "plugins": []
+}

@@ -1,0 +1,78 @@
+Perhitungan Skor SUS untuk 5 Responden
+=============================================
+
+Respondent 1 (Respondent 1):
+Jawaban: [4, 3, 4, 2, 5, 2, 5, 1, 4, 2]
+  Q1: 4 -> 3 (positif)
+  Q2: 3 -> 2 (negatif)
+  Q3: 4 -> 3 (positif)
+  Q4: 2 -> 3 (negatif)
+  Q5: 5 -> 4 (positif)
+  Q6: 2 -> 3 (negatif)
+  Q7: 5 -> 4 (positif)
+  Q8: 1 -> 4 (negatif)
+  Q9: 4 -> 3 (positif)
+  Q10: 2 -> 3 (negatif)
+Total skor mentah: 32
+Skor SUS akhir: 80.0
+
+Respondent 2 (Respondent 2):
+Jawaban: [5, 4, 5, 2, 4, 3, 4, 2, 5, 3]
+  Q1: 5 -> 4 (positif)
+  Q2: 4 -> 1 (negatif)
+  Q3: 5 -> 4 (positif)
+  Q4: 2 -> 3 (negatif)
+  Q5: 4 -> 3 (positif)
+  Q6: 3 -> 2 (negatif)
+  Q7: 4 -> 3 (positif)
+  Q8: 2 -> 3 (negatif)
+  Q9: 5 -> 4 (positif)
+  Q10: 3 -> 2 (negatif)
+Total skor mentah: 29
+Skor SUS akhir: 72.5
+
+Respondent 3 (Respondent 3):
+Jawaban: [3, 2, 3, 1, 4, 2, 4, 1, 3, 2]
+  Q1: 3 -> 2 (positif)
+  Q2: 2 -> 3 (negatif)
+  Q3: 3 -> 2 (positif)
+  Q4: 1 -> 4 (negatif)
+  Q5: 4 -> 3 (positif)
+  Q6: 2 -> 3 (negatif)
+  Q7: 4 -> 3 (positif)
+  Q8: 1 -> 4 (negatif)
+  Q9: 3 -> 2 (positif)
+  Q10: 2 -> 3 (negatif)
+Total skor mentah: 29
+Skor SUS akhir: 72.5
+
+Respondent 4 (Respondent 4):
+Jawaban: [4, 3, 4, 2, 5, 3, 4, 2, 4, 3]
+  Q1: 4 -> 3 (positif)
+  Q2: 3 -> 2 (negatif)
+  Q3: 4 -> 3 (positif)
+  Q4: 2 -> 3 (negatif)
+  Q5: 5 -> 4 (positif)
+  Q6: 3 -> 2 (negatif)
+  Q7: 4 -> 3 (positif)
+  Q8: 2 -> 3 (negatif)
+  Q9: 4 -> 3 (positif)
+  Q10: 3 -> 2 (negatif)
+Total skor mentah: 28
+Skor SUS akhir: 70.0
+
+Respondent 5 (Respondent 5):
+Jawaban: [5, 4, 5, 3, 5, 4, 5, 3, 5, 4]
+  Q1: 5 -> 4 (positif)
+  Q2: 4 -> 1 (negatif)
+  Q3: 5 -> 4 (positif)
+  Q4: 3 -> 2 (negatif)
+  Q5: 5 -> 4 (positif)
+  Q6: 4 -> 1 (negatif)
+  Q7: 5 -> 4 (positif)
+  Q8: 3 -> 2 (negatif)
+  Q9: 5 -> 4 (positif)
+  Q10: 4 -> 1 (negatif)
+Total skor mentah: 27
+Skor SUS akhir: 67.5
+
